@@ -19,9 +19,7 @@ body {
   flex-direction: column;
   align-items: center;
 }
-.Wrapper p {
-  color: #fff;
-}
+
 .Wrapper .score {
   color: #fff;
   font-size: 2rem;
